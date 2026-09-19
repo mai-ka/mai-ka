@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:417299,50:00998C,100:417299&height=200&section=header&text=Maika%20Paetzold&fontSize=56&fontColor=ffffff&desc=Digital%20Product%20Design%20%C2%B7%20UX%20%C2%B7%20Innovation%20Strategy&descSize=17&descAlignY=62&fontAlignY=36" width="100%"/>
-
 ### Hi, I'm Maika 👋
 
 The future is a design task. For more than 15 years I've been shaping digital
@@ -63,4 +61,3 @@ development as well as emerging technologies like AI.
 [![Portfolio](https://img.shields.io/badge/Portfolio-417299?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mettage.com/mettage-news.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikapaetzold/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:417299,50:00998C,100:417299&height=110&section=footer" width="100%"/>
