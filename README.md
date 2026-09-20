@@ -56,6 +56,5 @@ development as well as emerging technologies like AI.
 ## 📬 Contact
 [![Website](https://img.shields.io/badge/mettage.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mettage.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-417299?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mettage.com/mettage-news.html)
-[![Second GitHub Profil (https://github.com/maipae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikapaetzold/)
 
