@@ -19,10 +19,8 @@ development as well as emerging technologies like AI.
 - Medienpreis Mittelstand (2015)
 - Sparkasse Project Funding (2011)
 - State of North Rhine-Westphalia Project Funding (2011)
-- Kunstsalon Foundation Project Funding (2009, 2011)
 - SK Stiftung Kultur Project Funding (2009)
 - City of Cologne Project Funding (2006, 2008, 2009, 2011)
-- Research Scholarship, WDR (2004)
 
 ---
 
