@@ -40,7 +40,7 @@ development as well as emerging technologies like AI.
 | Project | What it is |
 |---|---|
 | Bias Radar *(Prototype Fund 2026 proposal, with [Fabian Franz](https://github.com/Franzelfx))* | Open-source software-infrastructure tool that scans training corpora for representation bias before model training, with EU AI Act documentation in mind |
-| Check the Fact | AI-assisted, real-time news credibility checker (group project) — #WirVsVirus 2020 · Samsung Solve for Tomorrow Award 2021 |
+| [Check the Fact](https://github.com/Check-den-Fakt) | AI-assisted, real-time news credibility checker (group project) — #WirVsVirus 2020 · Samsung Solve for Tomorrow Award 2021 |
 | [FutureLens](https://github.com/maipae) | AI tool that turns socioeconomic megatrends into a personalized impact analysis for organizations |
 
 ---
